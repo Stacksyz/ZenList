@@ -1,4 +1,4 @@
-# ZenList - Minecraft Server List
+# ZenList
 
 ZenList is a sleek and user-friendly Minecraft server list and status checker website.<br>
 It allows users to add, browse, and monitor Minecraft servers while maintaining a clean and efficient design.
