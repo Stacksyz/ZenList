@@ -1,6 +1,7 @@
 # ZenList - Minecraft Server List
 
-ZenList is a sleek and user-friendly Minecraft server list and status checker website. It allows users to add, browse, and monitor Minecraft servers while maintaining a clean and efficient design inspired by ismcserver.online.
+ZenList is a sleek and user-friendly Minecraft server list and status checker website.<br>
+It allows users to add, browse, and monitor Minecraft servers while maintaining a clean and efficient design.
 
 ---
 
@@ -95,6 +96,7 @@ Contributions are welcome! To contribute:
 
 ### Contact
 Have things you want to discuss regarding collaborations/projects etc. you can contact us at:
-Discord: stacksyz
-Discord Server: [discord.gg/WvmNAEzuzg](https://discord.gg/WvmNAEzuzg)
+
+Discord: stacksyz <br>
+Discord Server: [discord.gg/WvmNAEzuzg](https://discord.gg/WvmNAEzuzg) <br>
 Email: [ZenDevelopment@gmail.com](mailto:zendevelopment@gmail.com)
