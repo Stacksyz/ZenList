@@ -5,12 +5,12 @@ It allows users to add, browse, and monitor Minecraft servers while maintaining 
 
 ---
 
-> [!CAUTION]  
+> [!CAUTION]
+> You are **NOT** allowed to host this repository to the public!<br><br>
 > THIS PROJECT IS LICENSED UNDER A CUSTOM LICENSE:
 >
 > * PERSONAL USE IS ALLOWED
 > * PUBLIC HOSTING OR REDISTIBUTION OF THE CODE WITHOUT SUBSTANTIAL MODIFICATIONS IS PROHIBITED! SEE THE [LICENSE](./LICENSE) FILE FOR MORE DETAILS.
-
 ---
 ## Features
 
